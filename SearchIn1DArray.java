@@ -1,6 +1,6 @@
 // Linear search in a one-dimensional array
 
-class OneDimArrayLinearSearch {
+class SearchIn1DArray {
     // Method for linear search
     static int linearSearch(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
